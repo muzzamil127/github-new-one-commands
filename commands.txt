@@ -4,3 +4,12 @@ git status
 git commit -m "Add file"
 git restore myfile
 git rm --cached (to move back from staged to untracked file)
+
+Adding few more commands 
+git remote -v ( to see the origin of the remote url)
+git remote set-url origin https://token@repo-path.git   ( before pushing the code to github to avoid perms issues)
+
+fork (creating a server side copy like github to github, taking someones code)
+clone ( copying the code to local to work upon it, github to local)
+
+
