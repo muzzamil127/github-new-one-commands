@@ -6,3 +6,8 @@ print(wrong_code)
 
 #pushed wrong code to understand the concept of hooks , commit 
 #was successful even the code was wrong
+
+
+def new_wrong_with_flake8():
+
+    test()
