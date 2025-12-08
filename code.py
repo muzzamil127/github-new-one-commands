@@ -1,1 +1,7 @@
-print("Git commands Revision")
+def first():
+    """
+    Here we are
+    """
+    return ("Git commands Revision")
+
+first()
