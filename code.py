@@ -1,7 +1,6 @@
-def first():
+def hey():
     """
-    Here we are
+    the code
     """
-    return ("Git commands Revision")
-
-first()
+    return "hey"
+hey()
